@@ -1,0 +1,15 @@
+toyota,hybrid,camry,blue,ghj-675
+mercidece,gasoline,benze,black,HRTY-6354
+Audi,Diesel,A7,Black,KSD-789
+BMW,Hybrid,M3,green,SGH-898
+Borgward,Hybrid,Cavy,,Yellow,JSD-849
+Ford,Diesel,Tundra,Black,OEP-489
+Bugatti,gasoline,Veron,Silver,VHG-489
+Citroën,gasoline,C4,White,YHS-489
+Porsche,Diesel,panamera,Black,JDU-489
+Mercedes-Benz,hybrid,AMG,blue,kliy-7654
+Opel,hybrid,Astra,Black,YJG-890
+Messerschmitt,gasoline,kr200,Yellow,FYJ-456
+nissan,diesel,skyline,grey,afc-237
+suzuki,petrol,swift,silver,sft-335
+mercedes,diesel,g-class,black,vln-015
