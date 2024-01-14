@@ -1,6 +1,6 @@
 Description:
 
-this was a team project for the programming course in my 2 semesters at the university and I did the GUI and OOP and handling errors part.
+this was a team project for the programming course in my 2nd semester at the university and I did the GUI and OOP and handling errors part.
 where my teammates were creating the dummy list of cars in parking in michel.txt and the others handled explaining and presenting the code,
 This car parking system management application allows users to effectively manage information about cars within a parking system.
 Users can perform actions such as adding, deleting, or modifying cars. The user can predefine a text file in this case michel.txt
@@ -14,7 +14,7 @@ the car is marked as "registered" and displayed in green. If the checkbox is unc
 
 Setup:
 
-1) create use requirements.txt to install dependencies using:
+1) use requirements.txt to install dependencies:
    pip install -r requirements.txt
 2) make sure all files are in the same folder
 3) run finaly.py file
